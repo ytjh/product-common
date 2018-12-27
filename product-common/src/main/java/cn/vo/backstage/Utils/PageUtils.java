@@ -1,5 +1,7 @@
 package cn.vo.backstage.Utils;
 
+import java.util.Map;
+
 public class PageUtils {
 	
 	public static Integer getPageIndex(Integer page,Integer size){
